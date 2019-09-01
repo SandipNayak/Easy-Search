@@ -1,5 +1,5 @@
 #shows the price of products
-#same as,if search in amazon
+#same as,if we search in amazon
 
 import requests
 from bs4 import BeautifulSoup
